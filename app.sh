@@ -17,3 +17,4 @@ else
 fi
 
 echo "All application checks passed."
+echo "Automatic Jenkins webhook test successful!"
